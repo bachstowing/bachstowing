@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /backup/
+
+Sitemap: https://www.bachstowing.com/sitemap.xml
