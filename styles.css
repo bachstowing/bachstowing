@@ -308,7 +308,7 @@ a:hover {
   background-image: url('/media/bachshero.webp');
   background-size: cover;
   background-position: center bottom;
-  min-height: 600px; /* add a specific height */
+  min-height: 450px; /* add a specific height */
 
   display: flex;
   justify-content: center;
