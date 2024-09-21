@@ -1,55 +1,174 @@
 {
-    "rewrites": [
-      { "source": "/towing-buffalo.php", "destination": "/buffalo-towing.html" },
-      { "source": "/buffalonytowing.html", "destination": "/buffalo-towing.html" },
-      
-      { "source": "/towing-east-aurora.php", "destination": "/east-aurora-towing.html" },
-      { "source": "/eastauroranytowing.html", "destination": "/east-aurora-towing.html" },
-      
-      { "source": "/towing-hamburg-ny.php", "destination": "/hamburg-towing.html" },
-      { "source": "/hamburgnytowing.html", "destination": "/hamburg-towing.html" },
-      
-      { "source": "/towing-lackawanna.php", "destination": "/lackawanna-towing.html" },
-      { "source": "/lackawannanytowing.html", "destination": "/lackawanna-towing.html" },
-      
-      { "source": "/towing-west-seneca.php", "destination": "/west-seneca-towing.html" },
-      { "source": "/westsenecanytowing.html", "destination": "/west-seneca-towing.html" },
-      
-      { "source": "/heavy-towing-buffalo.php", "destination": "/heavy-duty-towing.html" },
-      { "source": "/heavydutytowing.html", "destination": "/heavy-duty-towing.html" },
-      
-      { "source": "/heavy-recovery-buffalo.php", "destination": "/heavy-duty-recovery.html" },
-      { "source": "/heavydutyrecovery.html", "destination": "/heavy-duty-recovery.html" },
-      
-      { "source": "/heavy-load-transport-buffalo.php", "destination": "/equipment-hauling.html" },
-      { "source": "/equipmenthauling.html", "destination": "/equipment-hauling.html" },
-      
-      { "source": "/heavy-cargo-service-buffalo.php", "destination": "/heavy-cargo-service.html" },
-      { "source": "/heavycargoservice.html", "destination": "/heavy-cargo-service.html" },
-      
-      { "source": "/police-impounds.php", "destination": "/police-impounds.html" },
-      { "source": "/policeimpounds.html", "destination": "/police-impounds.html" },
-      
-      { "source": "/dumpster-rental-buffalo.php", "destination": "/dumpster-rentals.html" },
-      { "source": "/dumpsterrentals.html", "destination": "/dumpster-rentals.html" },
-      
-      { "source": "/roadside-assistance-buffalo.php", "destination": "/roadside-assistance.html" },
-      { "source": "/roadsideassistance.html", "destination": "/roadside-assistance.html" },
-      
-      { "source": "/motorcycle-towing-buffalo.php", "destination": "/motorcycle-towing.html" },
-      { "source": "/motorcycletowing.html", "destination": "/motorcycle-towing.html" },
-      
-      { "source": "/specialty-car-towing-buffalo.php", "destination": "/specialty-car-towing.html" },
-      { "source": "/specialtycartowing.html", "destination": "/specialty-car-towing.html" },
-      
-      { "source": "/mobile-truck-repair-buffalo.php", "destination": "/mobile-truck-repair.html" },
-      { "source": "/mobiletruckrepair.html", "destination": "/mobile-truck-repair.html" },
-      
-      { "source": "/buffalo-junk-car-buyers.php", "destination": "/cash-for-cars.html" },
-      { "source": "/cashforcars.html", "destination": "/cash-for-cars.html" },
-      
-      { "source": "/buffalo-towing-rates.php", "destination": "/towing-rates.html" },
-      { "source": "/towingrates.html", "destination": "/towing-rates.html" }
-    ]
-  }
-  
+  "redirects": [
+    {
+      "source": "/towing-buffalo.php",
+      "destination": "https://bachstowing.com/buffalo-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/buffalonytowing.html",
+      "destination": "https://bachstowing.com/buffalo-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/towing-east-aurora.php",
+      "destination": "https://bachstowing.com/east-aurora-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/eastauroranytowing.html",
+      "destination": "https://bachstowing.com/east-aurora-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/towing-hamburg-ny.php",
+      "destination": "https://bachstowing.com/hamburg-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/hamburgnytowing.html",
+      "destination": "https://bachstowing.com/hamburg-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/towing-lackawanna.php",
+      "destination": "https://bachstowing.com/lackawanna-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/lackawannanytowing.html",
+      "destination": "https://bachstowing.com/lackawanna-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/towing-west-seneca.php",
+      "destination": "https://bachstowing.com/west-seneca-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/westsenecanytowing.html",
+      "destination": "https://bachstowing.com/west-seneca-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavy-towing-buffalo.php",
+      "destination": "https://bachstowing.com/heavy-duty-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavydutytowing.html",
+      "destination": "https://bachstowing.com/heavy-duty-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavy-recovery-buffalo.php",
+      "destination": "https://bachstowing.com/heavy-duty-recovery.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavydutyrecovery.html",
+      "destination": "https://bachstowing.com/heavy-duty-recovery.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavy-load-transport-buffalo.php",
+      "destination": "https://bachstowing.com/equipment-hauling.html",
+      "permanent": true
+    },
+    {
+      "source": "/equipmenthauling.html",
+      "destination": "https://bachstowing.com/equipment-hauling.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavy-cargo-service-buffalo.php",
+      "destination": "https://bachstowing.com/heavy-cargo-service.html",
+      "permanent": true
+    },
+    {
+      "source": "/heavycargoservice.html",
+      "destination": "https://bachstowing.com/heavy-cargo-service.html",
+      "permanent": true
+    },
+    {
+      "source": "/police-impounds.php",
+      "destination": "https://bachstowing.com/police-impounds.html",
+      "permanent": true
+    },
+    {
+      "source": "/policeimpounds.html",
+      "destination": "https://bachstowing.com/police-impounds.html",
+      "permanent": true
+    },
+    {
+      "source": "/dumpster-rental-buffalo.php",
+      "destination": "https://bachstowing.com/dumpster-rentals.html",
+      "permanent": true
+    },
+    {
+      "source": "/dumpsterrentals.html",
+      "destination": "https://bachstowing.com/dumpster-rentals.html",
+      "permanent": true
+    },
+    {
+      "source": "/roadside-assistance-buffalo.php",
+      "destination": "https://bachstowing.com/roadside-assistance.html",
+      "permanent": true
+    },
+    {
+      "source": "/roadsideassistance.html",
+      "destination": "https://bachstowing.com/roadside-assistance.html",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycle-towing-buffalo.php",
+      "destination": "https://bachstowing.com/motorcycle-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycletowing.html",
+      "destination": "https://bachstowing.com/motorcycle-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/specialty-car-towing-buffalo.php",
+      "destination": "https://bachstowing.com/specialty-car-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/specialtycartowing.html",
+      "destination": "https://bachstowing.com/specialty-car-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/mobile-truck-repair-buffalo.php",
+      "destination": "https://bachstowing.com/mobile-truck-repair.html",
+      "permanent": true
+    },
+    {
+      "source": "/mobiletruckrepair.html",
+      "destination": "https://bachstowing.com/mobile-truck-repair.html",
+      "permanent": true
+    },
+    {
+      "source": "/buffalo-junk-car-buyers.php",
+      "destination": "https://bachstowing.com/cash-for-cars.html",
+      "permanent": true
+    },
+    {
+      "source": "/cashforcars.html",
+      "destination": "https://bachstowing.com/cash-for-cars.html",
+      "permanent": true
+    },
+    {
+      "source": "/buffalo-towing-rates.php",
+      "destination": "https://bachstowing.com/towing-rates.html",
+      "permanent": true
+    },
+    {
+      "source": "/towingrates.html",
+      "destination": "https://bachstowing.com/towing-rates.html",
+      "permanent": true
+    }
+  ]
+}
