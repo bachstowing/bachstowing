@@ -1,0 +1,55 @@
+{
+    "rewrites": [
+      { "source": "/towing-buffalo.php", "destination": "/buffalo-towing.html" },
+      { "source": "/buffalonytowing.html", "destination": "/buffalo-towing.html" },
+      
+      { "source": "/towing-east-aurora.php", "destination": "/east-aurora-towing.html" },
+      { "source": "/eastauroranytowing.html", "destination": "/east-aurora-towing.html" },
+      
+      { "source": "/towing-hamburg-ny.php", "destination": "/hamburg-towing.html" },
+      { "source": "/hamburgnytowing.html", "destination": "/hamburg-towing.html" },
+      
+      { "source": "/towing-lackawanna.php", "destination": "/lackawanna-towing.html" },
+      { "source": "/lackawannanytowing.html", "destination": "/lackawanna-towing.html" },
+      
+      { "source": "/towing-west-seneca.php", "destination": "/west-seneca-towing.html" },
+      { "source": "/westsenecanytowing.html", "destination": "/west-seneca-towing.html" },
+      
+      { "source": "/heavy-towing-buffalo.php", "destination": "/heavy-duty-towing.html" },
+      { "source": "/heavydutytowing.html", "destination": "/heavy-duty-towing.html" },
+      
+      { "source": "/heavy-recovery-buffalo.php", "destination": "/heavy-duty-recovery.html" },
+      { "source": "/heavydutyrecovery.html", "destination": "/heavy-duty-recovery.html" },
+      
+      { "source": "/heavy-load-transport-buffalo.php", "destination": "/equipment-hauling.html" },
+      { "source": "/equipmenthauling.html", "destination": "/equipment-hauling.html" },
+      
+      { "source": "/heavy-cargo-service-buffalo.php", "destination": "/heavy-cargo-service.html" },
+      { "source": "/heavycargoservice.html", "destination": "/heavy-cargo-service.html" },
+      
+      { "source": "/police-impounds.php", "destination": "/police-impounds.html" },
+      { "source": "/policeimpounds.html", "destination": "/police-impounds.html" },
+      
+      { "source": "/dumpster-rental-buffalo.php", "destination": "/dumpster-rentals.html" },
+      { "source": "/dumpsterrentals.html", "destination": "/dumpster-rentals.html" },
+      
+      { "source": "/roadside-assistance-buffalo.php", "destination": "/roadside-assistance.html" },
+      { "source": "/roadsideassistance.html", "destination": "/roadside-assistance.html" },
+      
+      { "source": "/motorcycle-towing-buffalo.php", "destination": "/motorcycle-towing.html" },
+      { "source": "/motorcycletowing.html", "destination": "/motorcycle-towing.html" },
+      
+      { "source": "/specialty-car-towing-buffalo.php", "destination": "/specialty-car-towing.html" },
+      { "source": "/specialtycartowing.html", "destination": "/specialty-car-towing.html" },
+      
+      { "source": "/mobile-truck-repair-buffalo.php", "destination": "/mobile-truck-repair.html" },
+      { "source": "/mobiletruckrepair.html", "destination": "/mobile-truck-repair.html" },
+      
+      { "source": "/buffalo-junk-car-buyers.php", "destination": "/cash-for-cars.html" },
+      { "source": "/cashforcars.html", "destination": "/cash-for-cars.html" },
+      
+      { "source": "/buffalo-towing-rates.php", "destination": "/towing-rates.html" },
+      { "source": "/towingrates.html", "destination": "/towing-rates.html" }
+    ]
+  }
+  
