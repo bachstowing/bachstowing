@@ -87,4 +87,145 @@
     },
     {
       "source": "/heavycargoservice.html",
-      "destination": "https://bachstowing.com/heavy-cargo-ser
+      "destination": "https://bachstowing.com/heavy-cargo-service.html",
+      "permanent": true
+    },
+    {
+      "source": "/police-impounds.php",
+      "destination": "https://bachstowing.com/police-impounds.html",
+      "permanent": true
+    },
+    {
+      "source": "/policeimpounds.html",
+      "destination": "https://bachstowing.com/police-impounds.html",
+      "permanent": true
+    },
+    {
+      "source": "/dumpster-rental-buffalo.php",
+      "destination": "https://bachstowing.com/dumpster-rentals.html",
+      "permanent": true
+    },
+    {
+      "source": "/dumpsterrentals.html",
+      "destination": "https://bachstowing.com/dumpster-rentals.html",
+      "permanent": true
+    },
+    {
+      "source": "/roadside-assistance-buffalo.php",
+      "destination": "https://bachstowing.com/roadside-assistance.html",
+      "permanent": true
+    },
+    {
+      "source": "/roadsideassistance.html",
+      "destination": "https://bachstowing.com/roadside-assistance.html",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycle-towing-buffalo.php",
+      "destination": "https://bachstowing.com/motorcycle-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycletowing.html",
+      "destination": "https://bachstowing.com/motorcycle-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/specialty-car-towing-buffalo.php",
+      "destination": "https://bachstowing.com/specialty-car-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/specialtycartowing.html",
+      "destination": "https://bachstowing.com/specialty-car-towing.html",
+      "permanent": true
+    },
+    {
+      "source": "/mobile-truck-repair-buffalo.php",
+      "destination": "https://bachstowing.com/mobile-truck-repair.html",
+      "permanent": true
+    },
+    {
+      "source": "/mobiletruckrepair.html",
+      "destination": "https://bachstowing.com/mobile-truck-repair.html",
+      "permanent": true
+    },
+    {
+      "source": "/buffalo-junk-car-buyers.php",
+      "destination": "https://bachstowing.com/cash-for-cars.html",
+      "permanent": true
+    },
+    {
+      "source": "/cashforcars.html",
+      "destination": "https://bachstowing.com/cash-for-cars.html",
+      "permanent": true
+    },
+    {
+      "source": "/buffalo-towing-rates.php",
+      "destination": "https://bachstowing.com/towing-rates.html",
+      "permanent": true
+    },
+    {
+      "source": "/towingrates.html",
+      "destination": "https://bachstowing.com/towing-rates.html",
+      "permanent": true
+    },
+    {
+      "source": "/contact.php",
+      "destination": "https://bachstowing.com/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/reviews.php",
+      "destination": "https://bachstowing.com/reviews.html",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/css/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/js/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=3600"
+        }
+      ]
+    },
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
+    }
+  ]
+}
