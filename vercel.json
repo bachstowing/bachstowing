@@ -170,5 +170,15 @@
       "destination": "https://bachstowing.com/towing-rates.html",
       "permanent": true
     }
+   {
+      "source": "/contact.php",
+      "destination": "https://bachstowing.com/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/reviews.php",
+      "destination": "https://bachstowing.com/reviews.html",
+      "permanent": true
+    }
   ]
 }
