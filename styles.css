@@ -209,11 +209,13 @@
 
 body{
     font-family: 'poppins' !important;
+	font-display: swap;
     background: 	#100c08 !important;
     color: #FAF9F6 !important;
    
 p{
     font-family: 'Poppins';
+font-display: swap;
     font-size: 1rem !important;
     line-height: 1.15rem;
 }
@@ -223,6 +225,7 @@ p{
     margin-top: 0;
     margin-bottom: .5rem;
     font-weight: 700 !important;
+font-display: swap;
     line-height: 1.2;
     letter-spacing: 0.01rem;
     color: var(--bs-heading-color);
@@ -238,13 +241,14 @@ p{
 .hero-head{
   font-size: 3.75em !important;
   margin-top: 0;
+font-display: swap;
   margin-bottom: .5rem;
   font-weight: 700 !important;
   line-height: 1;
 }
 
 .sub-heading{
-  
+  font-display: swap;
   font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
