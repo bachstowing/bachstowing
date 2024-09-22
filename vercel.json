@@ -169,8 +169,8 @@
       "source": "/towingrates.html",
       "destination": "https://bachstowing.com/towing-rates.html",
       "permanent": true
-    }
-   {
+    },
+    {
       "source": "/contact.php",
       "destination": "https://bachstowing.com/contact.html",
       "permanent": true
