@@ -277,7 +277,7 @@ a:hover {
   color: #f7cc04!important;
 }
 .hero {
-  background-image: url('/media/bachshero.webp');
+  background-image: url('/media/bachsherooverlay.webp');
   background-size: cover;
   background-position: center bottom;
   min-height: 450px; /* add a specific height */
@@ -285,7 +285,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   color: white;
-  position: relative;
+ 
 }
 
 .hero-text{
