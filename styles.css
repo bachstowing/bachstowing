@@ -4,7 +4,7 @@
   left: -425px; /* Updated to match the width */
   width: 425px;
   height: 100vh;
-  background-color: black;
+  background-color: #100c08;
   padding: 20px;
   transition: left 0.3s ease-in-out; /* Adjusted for smoother transition */
   z-index: 1000;
@@ -20,7 +20,7 @@
     left: -375px; /* Updated to match the width */
     width: 375px;
     height: 100vh;
-    background-color: black;
+    background-color: #100c08;
     padding: 20px;
     transition: left 0.3s ease-in-out; /* Adjusted for smoother transition */
     z-index: 1000;
