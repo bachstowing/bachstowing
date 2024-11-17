@@ -277,6 +277,7 @@ a:hover {
   color: #f7cc04!important;
 }
 .hero {
+	  position: relative;
   background-image: url('/media/bachsherooverlay.webp');
   background-size: cover;
   background-position: center bottom;
